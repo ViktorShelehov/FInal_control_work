@@ -1,0 +1,15 @@
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\bin\Debug\net6.0\Task_Solution.exe
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\bin\Debug\net6.0\Task_Solution.deps.json
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\bin\Debug\net6.0\Task_Solution.runtimeconfig.json
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\bin\Debug\net6.0\Task_Solution.dll
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\bin\Debug\net6.0\Task_Solution.pdb
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.csproj.AssemblyReference.cache
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.AssemblyInfoInputs.cache
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.AssemblyInfo.cs
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.csproj.CoreCompileInputs.cache
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.dll
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\refint\Task_Solution.dll
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.pdb
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\Task_Solution.genruntimeconfig.cache
+C:\Users\intertop-admin\Desktop\Итоговая контрольная работа\Task_Solution\obj\Debug\net6.0\ref\Task_Solution.dll
